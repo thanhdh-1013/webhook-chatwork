@@ -14,7 +14,8 @@
     "cleverbot-free": "^1.0.4",
     "express": "^4.17.1",
     "free-cleverbot.io": "^1.0.2",
-    "ngrok": "^3.3.0"
+    "ngrok": "^3.3.0",
+    "simsimi": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
